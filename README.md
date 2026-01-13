@@ -155,7 +155,7 @@ ollama serve
 # Activate virtual environment (if not already active)
 .\venv\Scripts\Activate.ps1  # Windows PowerShell
 # or
-venv\Scripts\activate        # Windows CMD
+      # Windows CMD
 # or
 source venv/bin/activate     # macOS/Linux
 
@@ -345,7 +345,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-For questions or support, please open an issue on the GitHub repository.
+For questions or support, please open anvenv\Scripts\activate   issue on the GitHub repository.
 
 ---
 
