@@ -19,3 +19,6 @@ db/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local notes and personal files
+LOCAL_NOTES.md
